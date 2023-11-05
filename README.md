@@ -25,5 +25,6 @@ Currently, these voices are I have on my own system, to recreate this you will n
 - ~~speech.speed~~ (not implemented) 
 
 ## Credits
-- Text-to-speech integration provided by [say.js](https://github.com/Marak/say.js/)
-- Simple text-to-speech extension for Visual Studio Code [vscode-speech](https://github.com/mattbierner/vscode-speech)
+
+- vscode-speech, https://github.com/mattbierner/vscode-speech
+-  Piper,  https://github.com/rhasspy/piper
