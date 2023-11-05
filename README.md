@@ -13,7 +13,7 @@ VSCode Speech adds basic text-to-speech functionality to the VSCode editor using
 
 ## Voice selection menu
 
-Currently, these voices are I have on my own system, to recreate this you will need to download the models seperatly from [here](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0). You can also set the voice in your vscode settings. 
+Currently, these voices are the I have on my own system. To recreate this you will need to download the models seperatly from [here](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0). You can also set the voice in your vscode settings. 
 
 ![Demo](media/voice-selection.png)
 
